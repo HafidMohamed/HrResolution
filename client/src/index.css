@@ -1,0 +1,12 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+.react-beautiful-dnd-draggable {
+    transition: none !important;
+  }
+  .cursor-ew-resize {
+    cursor: ew-resize;
+  }
+  .overflow-x-auto {
+    overflow-x: visible;
+  }
